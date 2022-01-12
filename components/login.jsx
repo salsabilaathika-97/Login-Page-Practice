@@ -1,7 +1,7 @@
 export default function Login() {
     return (
         <div className="min-h-screen bg-no-repeat bg-cover bg-center"
-	style="background-image: url('https://images.unsplash.com/photo-1486520299386-6d106b22014b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80')">
+	style={"background-image: url('https://images.unsplash.com/photo-1486520299386-6d106b22014b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80')"}>
         <div className = "flex justify-end">
             <div className = "bg-white min-h-screen w-1/2 flex justify-center items-center">
                 <form>
